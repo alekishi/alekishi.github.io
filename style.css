@@ -1,0 +1,32 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color: black; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif" ;
+	font-size: 1em;
+}
+
+body {background-color: #F3E4A7 ;}
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color: darkred;
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color: olive;
+}
